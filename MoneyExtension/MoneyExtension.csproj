@@ -4,6 +4,18 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtensionsMateusbnl</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Mateus Lucena</Authors>
+    <PackageDescription>Extensao para Aprendizado</PackageDescription>
+    <Description>Extensao para Aprendizado</Description>
+    <RepositoryUrl>https://github.com/Mateusbnl/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Mateusbnl/money-extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>Money Extensions Mateusbnl</Title>
+    <Summary>Extension de Teste</Summary>
   </PropertyGroup>
 
 </Project>
